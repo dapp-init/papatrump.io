@@ -55,8 +55,6 @@ import alpha from "../assets/alphawallet.png";
 import tokenary from "../assets/tokenary.png";
 import spatium from "../assets/spatium.jpeg";
 
-import bgDesk from "../assets/homeimage/bg-desk.jpg";
-import glassImg from "../assets/homeimage/logo-003.jpg";
 
 import telegram from "../assets/homeimage/2.png";
 import github from "../assets/homeimage/6.png";
@@ -129,8 +127,6 @@ export default {
     alpha,
     tokenary,
     spatium,
-    bgDesk,
-    glassImg,
     telegram,
     github,
     twitter,

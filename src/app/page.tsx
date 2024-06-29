@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import logo from "../assets/homeimage/logo-003.jpg";
 import images from "../constant/images";
 import TidioChat from "@/components/tidio";
 import { useRouter } from "next/navigation";

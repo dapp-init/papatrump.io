@@ -48,7 +48,7 @@ export default function Home() {
             <div className="text-center text-white">
               <div className="flex items-center mx-8 px-16">
                 <Image
-                  src={images.ppt2}
+                  src={images.pptLogo}
                   alt="Top Image"
                   className=" flex items-center"
                   height={300}

@@ -61,9 +61,9 @@ import github from "../assets/homeimage/6.png";
 import twitter from "../assets/homeimage/3.png";
 
 import pptLogo from "../assets/homeimage/papatlogo.jpeg";
-import ppt1 from "../assets/homeimage/papat1.jpeg";
+import ppt1 from "../assets/homeimage/papat1.jpg";
 import ppt2 from "../assets/homeimage/download.png";
-import ppt3 from "../assets/homeimage/papat3.jpeg";
+import ppt3 from "../assets/homeimage/papat3.jpg";
 
 import aveai from "../assets/homeimage/Aveai.png"
 import dexScreener from "../assets/homeimage/DEXScreener.png"
